@@ -1,0 +1,10 @@
+Package assembled 2026-11-14. Recovery reference date: 2026-11-13.
+MediaTek cdc-acm 3.0.1504.0: https://www.catalog.update.microsoft.com/Search.aspx?q=preloader+usb
+Downloaded CAB: https://catalog.s.download.windowsupdate.com/c/msdownload/update/driver/drvs/2016/08/20913465_17e56bbd9fe9351b9477154c0414ce86e21a42bb.cab
+Samsung USB driver: https://developer.samsung.com/android-usb-driver
+VC++ runtime: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist
+Runtime download: https://aka.ms/vc14/vc_redist.x86.exe and https://aka.ms/vc14/vc_redist.x64.exe
+Samsung and Microsoft installers and MediaTek catalogue signature verified valid. Installers included, not run during packaging.
+SP Flash Tool V6 6.2216 and Odin 3.14.4: existing user-supplied tools; no claim of official Samsung distribution for Odin.
+Firmware images and DA/auth: original user-provided packages, see language guides. No A16 experimental firmware or Magisk included.
+This is a personal offline backup. Third-party software remains subject to its original terms.
