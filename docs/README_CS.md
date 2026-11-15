@@ -1,3 +1,6 @@
+## Stazeni balicku z GitHubu
+Stahni vsechny ctyri casti .zip.001 az .zip.004 a SHA256SUMS.txt ze sekce Releases do stejne slozky. Otevri .zip.001 v 7-Zipu a rozbal cely obsah; ostatni casti se nactou automaticky. Tento postup byl overen testem archivu. Alternativne pouzij JOIN_AND_VERIFY.ps1 s PARTS_MANIFEST.json. Automaticky GitHub Source code ZIP neobsahuje firmware.
+
 # POUZE SM-X115 — BOOTLOADER BIT 6 / U6
 
 **NEPOUŽÍVAT PRO BIT 7, BIT 9 ANI JINOU REVIZI. X110 A X115 NEJSOU ZAMĚNITELNÉ.**

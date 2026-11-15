@@ -1,3 +1,6 @@
+## Download from GitHub
+Download all four .zip.001 through .zip.004 parts and SHA256SUMS.txt from Releases into one folder. Open .zip.001 in 7-Zip and extract; remaining parts are read automatically. This split-archive operation was tested. Alternatively use JOIN_AND_VERIFY.ps1 with PARTS_MANIFEST.json. The automatic GitHub Source code ZIP is not the firmware package.
+
 # SM-X115 ONLY — BOOTLOADER BIT 6 / U6
 
 **DO NOT USE WITH BIT 7, BIT 9 OR ANY OTHER REVISION. X110 AND X115 PACKAGES ARE NOT INTERCHANGEABLE.**
