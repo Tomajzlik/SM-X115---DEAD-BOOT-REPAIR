@@ -1,7 +1,7 @@
 {
   "archive": "SM-X115_BIT6_ORIGINAL_RECOVERY_PUBLIC.zip",
-  "size": 6071821302,
-  "sha256": "67787c0454eeff2f511a91551819b02a4576931c9154ef4f4aea1ffff8b565a1",
+  "size": 6071846217,
+  "sha256": "08a935a78b7e686fec530357de5e0a369b13efdd5e5ccf816ae5dc56e4b968b9",
   "parts": [
     {
       "name": "SM-X115_BIT6_ORIGINAL_RECOVERY_PUBLIC.zip.001",
@@ -20,8 +20,8 @@
     },
     {
       "name": "SM-X115_BIT6_ORIGINAL_RECOVERY_PUBLIC.zip.004",
-      "size": 71821302,
-      "sha256": "3b8024361bec4b44130d3deb4ac6720d2e0322e26516d897bb192f48bba6fd8a"
+      "size": 71846217,
+      "sha256": "dc00e750396467ba0ffbc9773f390acaf8858e737f650fa97fd126caa8e2f846"
     }
   ]
 }
